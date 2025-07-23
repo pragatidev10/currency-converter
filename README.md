@@ -38,7 +38,7 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 ---
 
 ## 📂 Project Structure
-
+```bash
 
 ├── index.html         # Main HTML file
 ├── style.css          # Styling for the app
@@ -46,8 +46,9 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 ├── codes.js           # Currency and country mapping object
 └── README.md          # This README file
 
+---
 
-🔑 Setup & How to Use
+## 🔑 Setup & How to Use
 Clone the repository
 git clone https://github.com/pragatidev10/currency-converter.git
 cd currency-converter
@@ -55,11 +56,17 @@ cd currency-converter
 Open index.html in a browser
 No build tools required. Just open the file in any modern browser.
 
-🔗 API Reference
+---
+
+## 🔗 API Reference
 🌐 CurrencyAPI – Used for fetching live exchange rates
 🚩 FlagsAPI – Used for displaying country flags
 
-📌 Note
+---
+
+## 📌 Note
 You need an API key from CurrencyAPI to make the project work.
 
 Make sure the key used in app.js is valid and has access to the latest endpoint.
+
+
