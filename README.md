@@ -51,8 +51,13 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 
 ## 🔑 Setup & How to Use
 Clone the repository
+
+```bash
 git clone https://github.com/pragatidev10/currency-converter.git
 cd currency-converter
+
+```
+--- 
 
 Open index.html in a browser
 No build tools required. Just open the file in any modern browser.
