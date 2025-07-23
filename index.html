@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <div class="container">
+       
+        
+        <form>
+            <h1>Currency Converter</h1>
+            <div class="dropdown">
+                <div class="amount">
+                    <input id="amount" type="text" placeholder="Enter amt" />
+               
+
+                <div class="from">
+                   
+                    <div class="select-container">
+                       <img src="https://flagsapi.com/US/flat/64.png" alt="From Flag" />
+                       <span>▼</span>
+                        <select name="from" >
+                             
+                            <!-- Options will be added dynamically here -->
+                        </select>
+                    </div>
+                </div>
+                 </div>
+                 </div>
+
+                <div class="swap">
+                    <button type="button" id="swap-btn">⇄</button>
+                </div>
+
+                
+
+                <div class="converted-amount">
+                    <input id="converted-amount" type="text" placeholder="Converted amt" readonly/>
+                
+
+                <div class="to">
+                    <div class="select-container2">
+                        <img src="https://flagsapi.com/IN/flat/64.png" alt="To Flag" />
+                        <span>▼</span>
+                        <select name="to">
+                            <!-- Options will be added dynamically here -->
+                        </select>
+                    </div>
+                </div>
+                </div>
+
+                <button id="btn">Get exchange rate</button>
+            </div>
+            </div>
+        </form>
+    </div>
+
+    <script src="codes.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
