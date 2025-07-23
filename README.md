@@ -43,6 +43,7 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 ├── codes.js              # Currency and country mapping object
 └── README.md             # This README file
 
+---
 
 ## 🔑 Setup & How to Use
 
