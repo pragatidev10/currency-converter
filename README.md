@@ -39,8 +39,7 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 
 ## 📂 Project Structure
 
-```bash
-.
+
 ├── index.html         # Main HTML file
 ├── style.css          # Styling for the app
 ├── app.js             # Main JavaScript logic
