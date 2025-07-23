@@ -14,7 +14,7 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 ## 📸 Screenshot
 
 ![Currency Converter Screenshot](preview.png)  
-*(Make sure to upload a screenshot named `preview.png` in the repo)*
+
 
 ---
 
