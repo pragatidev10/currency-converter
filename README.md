@@ -7,7 +7,7 @@ A clean and modern Currency Converter web application built with **HTML**, **CSS
 ## 🌐 Live Demo
 
 [Click here to try it out](https://pragatidev10.github.io/currency-converter/)  
-*(Replace `#` with your live deployment link, e.g., GitHub Pages or Netlify)*
+
 
 ---
 
@@ -59,20 +59,19 @@ cd currency-converter
 ```
 --- 
 
-Open index.html in a browser
-No build tools required. Just open the file in any modern browser.
+- Open index.html in a browser
+- No build tools required. Just open the file in any modern browser.
 
 ---
 
 ## 🔗 API Reference
-🌐 CurrencyAPI – Used for fetching live exchange rates
-🚩 FlagsAPI – Used for displaying country flags
+- 🌐 CurrencyAPI – Used for fetching live exchange rates
+- 🚩 FlagsAPI – Used for displaying country flags
 
 ---
 
 ## 📌 Note
-You need an API key from CurrencyAPI to make the project work.
-
-Make sure the key used in app.js is valid and has access to the latest endpoint.
+- You need an API key from CurrencyAPI to make the project work.
+- Make sure the key used in app.js is valid and has access to the latest endpoint.
 
 
